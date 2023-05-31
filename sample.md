@@ -1,4 +1,4 @@
-# [MusicXML.musicxml](https://en.wikipedia.org/wiki/MusicXML)
+# [example.musicxml](https://en.wikipedia.org/wiki/MusicXML)
 ```xml
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE score-partwise PUBLIC
@@ -39,7 +39,7 @@
 </score-partwise>
 ```
 
-# [abc.abc]
+# [example.abc]
 ```abc
 X:1
 T:The Legacy Jig
